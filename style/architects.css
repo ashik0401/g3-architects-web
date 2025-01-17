@@ -168,6 +168,7 @@ main > section{
 .sponsor-companies {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
+  margin-bottom: 50px;
 }
 .sponsor-companies img{
   filter: grayscale(100%);
